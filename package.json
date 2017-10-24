@@ -2,7 +2,7 @@
   "name": "xfiles",
   "version": "1.0.0",
   "description": "A File browser made with nodejs",
-  "main": "index.js",
+  "main": "xfiles.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
